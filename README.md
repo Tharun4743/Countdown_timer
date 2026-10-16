@@ -130,16 +130,6 @@ flowchart LR
   </tr>
 </table>
 
-### 🔒 Proprietary License Notice (All Rights Reserved)
-> [!CAUTION]
-> **PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY**
-> 
-> All rights reserved. This repository, its architecture, source code, workflows, firmware, and associated documentation are the exclusive intellectual property of **Tharunkumar K**.
-> 
-> **No entity, organization, or individual is permitted to copy, modify, distribute, publish, commercially exploit, reverse engineer, or deploy any portion of this project without express, prior written permission from the author.**
-> 
-> **Copyright © 2026 Tharunkumar K. All Rights Reserved.**
-
 <!-- =========================================================================
    SEO & SEARCH ENGINE RECRUITER METADATA (CRAWLER INDEXING)
    Entity: Tharunkumar K (Tharun4743 / tharunkumark4743)
